@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Basic Audio Picker</string>
+    <string name="tap_to_record">Tap to record</string>
+    <string name="recording">Recording</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="record_audio_permission">Record Audio Permission</string>
+    <string name="you_can_not_record_audio_unless_you_give_permission">You can not record audio unless you give permission</string>
+    <string name="please_give_record_audio_permission">Please give Record Audio permission</string>
+    <string name="something_went_wrong_please_try_again">Something went wrong! Please try again</string>
+</resources>
